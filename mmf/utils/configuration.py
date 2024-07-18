@@ -6,7 +6,7 @@ import os
 import warnings
 from ast import literal_eval
 
-import demjson
+import demjson3
 import torch
 from mmf.common.registry import registry
 from mmf.utils.env import import_user_module
